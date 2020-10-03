@@ -9,4 +9,6 @@ The entire disaster began when human realized how to manipulate wormhole with ad
 4. The loopeon can only be destroyed when all entangled cores are annihilated simultaneously.
 5. The threat of a loopeon can be neutralized if the softer inner cores were simultaniously in-contact with dense materials such as lead or Osmium. In that scenario the annihilation of inner cores will disentangle the entire loopeon and release all of the energy through gamma radiation.
 
-As a quick response to stop this apocalypse we developed the Osmium quantum projector. By successfully compose a quantum circuit which send in the Osmium ammo to annihilate the cores of loopeon we are able to break the loop and hopefully save our planet.
+As a quick response to stop this apocalypse we developed the Osmium Quantum Projector (OQP). By successfully compose a quantum circuit we are able to send out the Osmium bullets with the help to quantum superposition and/or entanglement, which annihilate the cores simultaneously and save the entire planet from further annihilation.
+
+To prevent us from getting stuck in the loop, we need everyone's help to test out our prototype OQP. Join us to use quantum to disentangle the loop!
