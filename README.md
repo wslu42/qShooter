@@ -1,4 +1,7 @@
 # qShooter
+
+![image](https://github.com/wslu42/qShooter/blob/master/logo.png)
+
  Save us from the limbo loop with quantum circuits!
 
 The entire disaster began when human realized how to manipulate wormhole with advanced quantum computers. A newly discovered macro-molecule leaked from the wormhole, “loopeon”, which mostly consists of two quantum anti-matter cores covered with superdense shell and connected with a loop-like bridge, can annihilate with anything with a direct contact. The source of this molecule remains unknown at this point, while so far researchers has summarized that it has below properties:
@@ -12,3 +15,5 @@ The entire disaster began when human realized how to manipulate wormhole with ad
 As a quick response to stop this apocalypse we developed the Osmium Quantum Projector (OQP). By successfully compose a quantum circuit we are able to send out the Osmium bullets with the help to quantum superposition and/or entanglement, which annihilate the cores simultaneously and save the entire planet from further annihilation.
 
 To prevent us from getting stuck in the loop, we need everyone's help to test out our prototype OQP. Join us to use quantum to disentangle the loop!
+
+![image](https://github.com/wslu42/qShooter/blob/master/sc.png)
