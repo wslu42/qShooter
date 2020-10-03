@@ -1,6 +1,6 @@
 # qShooter
 
-![image](https://github.com/wslu42/qShooter/blob/master/logo.png)
+![image](https://github.com/wslu42/qShooter/blob/main/logo.png)
 
  Save us from the limbo loop with quantum circuits!
 
@@ -16,4 +16,4 @@ As a quick response to stop this apocalypse we developed the Osmium Quantum Proj
 
 To prevent us from getting stuck in the loop, we need everyone's help to test out our prototype OQP. Join us to use quantum to disentangle the loop!
 
-![image](https://github.com/wslu42/qShooter/blob/master/sc.png)
+![image](https://github.com/wslu42/qShooter/blob/main/sc.png)
