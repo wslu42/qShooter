@@ -2,7 +2,7 @@
 
 ![image](https://github.com/wslu42/qShooter/blob/main/logo.png)
 
- Save us from the limbo loop with quantum circuits!
+ **Save us from the limbo loop with quantum circuits!**
 
 The entire disaster began when human realized how to manipulate wormhole with advanced quantum computers. A newly discovered macro-molecule leaked from the wormhole, “loopeon”, which mostly consists of two quantum anti-matter cores covered with superdense shell and connected with a loop-like bridge, can annihilate with anything with a direct contact. The source of this molecule remains unknown at this point, while so far researchers has summarized that it has below properties:
 
