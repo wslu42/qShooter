@@ -1,4 +1,4 @@
-# qShooter
+# INTRO
 
 ![image](https://github.com/wslu42/qShooter/blob/main/logo.png)
 
@@ -17,3 +17,11 @@ As a quick response to stop this apocalypse we developed the Osmium Quantum Proj
 To prevent us from getting stuck in the loop, we need everyone's help to test out our prototype OQP. Join us to use quantum to disentangle the loop!
 
 ![image](https://github.com/wslu42/qShooter/blob/main/sc.png)
+
+
+# BEHIND THE SCENE
+
+In this work I implemented randomness, superposition and entanglement through QASM backend. The real qubit devices can be loaded but I haven't really tried since in this game device-specific parameters won't make any differences. The user control is just a three-qubit circuit composer with circuit depth = 3, and by using X, H, and CX gates we asked user to come up with states match to the falling blocks (loopeon). The measurement part of in this code is designed such that counts won't be too high that user can basically shoot down anything with H gates.
+
+1. Has only 16 shots each time when user load the circuit with space bar.
+2. For states with counts <4, set the count of that state to 0.
