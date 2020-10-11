@@ -1,3 +1,7 @@
+# Youtube gameplay
+
+https://youtu.be/6--ULOXJc6E
+
 # INTRO
 
 ![image](https://github.com/wslu42/qShooter/blob/main/logo.png)
