@@ -1,6 +1,6 @@
-# Youtube gameplay
+# Gameplay
 
-https://youtu.be/6--ULOXJc6E
+https://youtu.be/zUahbUUSu2Q
 
 # INTRO
 
