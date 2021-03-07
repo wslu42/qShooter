@@ -1,9 +1,10 @@
 # Gameplay
-
 https://www.youtube.com/watch?v=YCEv22Ma-vM
 
-# INTRO
+# itch.io submission
+https://wslu42.itch.io/disentangle-the-loop
 
+# Background
 ![image](https://github.com/wslu42/qShooter/blob/main/logo.png)
 
  **Save us from the limbo loop with quantum circuits!**
