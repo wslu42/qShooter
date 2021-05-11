@@ -1,3 +1,6 @@
+**This work is inspired by QPong made by qiskit advocate Junye Huang, a quantum variant of classical Pong**
+**Play QPong here: https://alfa871212.itch.io/qpong**
+
 # Gameplay
 https://www.youtube.com/watch?v=YCEv22Ma-vM
 
